@@ -1,0 +1,81 @@
+body{
+  background-color: black;
+}
+
+ul{
+  background-color: black;
+  width: 500px;
+  color: white;
+  padding: 1%
+  position: absolute
+  
+  
+}
+ul li{
+  
+  margin: 5%;
+  padding: 5%;
+  text-align: center;
+  display: none
+}
+li1{
+   background-color: purple;
+   color: red
+}
+li2{
+  background-color: brown;
+  color: orange
+}
+li3{
+   background-color: blue;
+   color: orange
+}
+
+ul:hover li{
+  display:block;
+}
+#RustURL{
+  color: red;
+  text-decoration: none;
+}
+#RustURL.hover {
+  text-decoration: underline;
+}
+
+#counter_strike_2URL{
+  color: orange;
+  text-decoration: none;
+}
+#counter_strike_2URL.hover {
+  text-decoration: underline;
+}
+
+#SatisfactoryURL{
+  color: orange;
+  text-decoration: none;
+}
+#SatisfactoryURL.hover {
+  text-decoration: underline;
+}
+
+.image{
+  filter: brightness(40%)
+}
+
+#contect{
+  color: white;
+  
+}
+#Counter-Strike-2{
+  color: orange;
+}
+.rubik-glitch-regular {
+  font-family: "Rubik Glitch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
